@@ -1,6 +1,6 @@
 {
   "name": "unit-synonyms-mass",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Mass units synonyms",
   "main": "src/index.js",
   "scripts": {
