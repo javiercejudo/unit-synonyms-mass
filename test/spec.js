@@ -8,7 +8,7 @@ var mass = require('../src/');
 var units = mass.units;
 var synonyms = mass.synonyms;
 
-describe('metricPrefixes units synonyms', function() {
+describe('mass units synonyms', function() {
   it('should be an objecct', function() {
     ({}.toString.call(synonyms)).should.equal('[object Object]');
   });
